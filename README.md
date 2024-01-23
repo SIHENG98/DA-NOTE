@@ -3,8 +3,8 @@
 ## I. SQL
 ### SQL书籍
 
-- 必读：[《SQL必知必会》](/part I SQL笔记/SQL必知必会-中文-第4版.pdf)
-- 选读：[《SQL Cookbook》](/part I SQL笔记/SQL Cookbook(中文版).pdf)
+- 必读：[《SQL必知必会》](https://github.com/SIHENG98/DA-NOTE/blob/main/part%20I%20SQL%E7%AC%94%E8%AE%B0/SQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A-%E4%B8%AD%E6%96%87-%E7%AC%AC4%E7%89%88.pdf)
+- 选读：[《SQL Cookbook》](https://github.com/SIHENG98/DA-NOTE/blob/main/part%20I%20SQL%E7%AC%94%E8%AE%B0/SQL%20Cookbook(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
 ### 常用语法思维导图
 
 - [SQL 常用语法思维导图](/part I SQL笔记/SQL 常用语法思维导图.pdf)
