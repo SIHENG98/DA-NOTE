@@ -7,7 +7,7 @@
 - 选读：[《SQL Cookbook》](https://github.com/SIHENG98/DA-NOTE/blob/main/part%20I%20SQL%E7%AC%94%E8%AE%B0/SQL%20Cookbook(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
 ### 常用语法思维导图
 
-- [SQL 常用语法思维导图](/part I SQL笔记/SQL 常用语法思维导图.pdf)
+- [SQL 常用语法思维导图](part I SQL笔记/SQL 常用语法思维导图.pdf)
 
   - 基础语法
 
@@ -23,11 +23,11 @@
 
 ### 基本方法(方法论)
 
-#### 指标分析
+#### 1. 指标分析
 
 必备技能，重点包括指标体系的搭建及指标异动的分析
 
-<img src="/Users/siheng_huang/Desktop/markdown/image/1-%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90.png" style="zoom:67%;" />
+<img src="/Users/siheng_huang/Desktop/markdown/image/1-%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90.png" style="zoom:50%;" />
 
 > 如何理解？
 >
@@ -45,15 +45,32 @@
 
 案例1: 某电商APP上个月的GMV(成交总额)下降了25%，请你分析一下具体原因
 
+> 拆分思路：
+>
+> 1. 对GMV 的计算方式进行拆解
+>    $$
+>    GMV=订单数\times 订单均价
+>    $$
+>
+> 2. 针对订单数及订单均价进行下钻分析
+
+[分析详情：GMV下降分析案例](Part II 业务逻辑/1-指标分析/案例-异动分析-GMV下降.pdf)
+
 
 
 案例2: 假设某视频app从某日起日活DAU指标大幅下降。你会如何找出原因？
 
+<img src="/Users/siheng_huang/Desktop/markdown/image/DAU%E6%8B%86%E5%88%86%E5%85%AC%E5%BC%8F.png" style="zoom:30%;" />
+
+[分析详情：DAU下降分析案例](Part II 业务逻辑/1-指标分析/案例-异动分析-DAU下降.pdf)
 
 
 
+##### 多指标异常分析
 
+多个指标异常的时候，怎么判断哪个指标影响大？
 
+**本质上就是贡献度的测算**
 
 
 
