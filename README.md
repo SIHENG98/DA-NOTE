@@ -7,7 +7,7 @@
 - 选读：[《SQL Cookbook》](https://github.com/SIHENG98/DA-NOTE/blob/main/part%20I%20SQL%E7%AC%94%E8%AE%B0/SQL%20Cookbook(%E4%B8%AD%E6%96%87%E7%89%88).pdf)
 ### 常用语法思维导图
 
-- [SQL 常用语法思维导图](part I SQL笔记/SQL 常用语法思维导图.pdf)
+- [SQL 常用语法思维导图](https://github.com/SIHENG98/DA-NOTE/blob/main/part%20I%20SQL%E7%AC%94%E8%AE%B0/SQL%20%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE.pdf)
 
   - 基础语法
 
@@ -27,7 +27,7 @@
 
 必备技能，重点包括指标体系的搭建及指标异动的分析
 
-<img src="/Users/siheng_huang/Desktop/markdown/image/1-%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90.png" style="zoom:40%;" />
+<img src="https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/1-%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90.png" style="zoom:40%;" />
 
 > 如何理解？
 >
@@ -48,6 +48,7 @@
 > 拆分思路：
 >
 > 1. 对GMV 的计算方式进行拆解
+>
 >    $$
 >    GMV=订单数\times 订单均价
 >    $$
