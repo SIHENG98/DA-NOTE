@@ -178,7 +178,7 @@
 - Society：行业舆论、用户生活方式变化、消费心理、价值观
 - Technology：创新方案的出现，分销方式的变化
 
-
+&nbsp;
 
 **方法2: 行业发展分析**
 
@@ -217,7 +217,7 @@
    - 国际化战略
    - 当前/未来资金情况
 
-
+&nbsp;
 
 **公司对比**
 
@@ -299,17 +299,20 @@
      - 交互
      - 产品功能
 
+&nbsp;
 
 > 详细分析思路：
 >
 > [方法论：评价产品/产品功能的好坏]()
 
 
+&nbsp;
 
 **案例1：评价小红书这个app**
 
-[分析思路：评价小红书]()
+[分析思路：评价小红书](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E6%97%A5%E5%B8%B8%E4%BD%BF%E7%94%A8%E7%9A%84%E4%BA%A7%E5%93%81%E8%AF%84%E4%BB%B7.pdf)
 
+&nbsp;
 
 
 **[思维发散] 案例2：分析产品/产品功能的缺点及提出改进方法**
@@ -318,51 +321,51 @@
 
 - 分析ATM机的缺点及改建建议
 
-  [案例分析：ATM机]()
+  [案例分析：ATM机](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E5%88%86%E6%9E%90ATM%E6%9C%BA%E7%9A%84%E7%BC%BA%E7%82%B9%E5%92%8C%E6%94%B9%E8%BF%9B%E6%96%B9%E6%B3%95.pdf)
 
-  
+&nbsp;
 
 - 给出滴滴打车功能的改进建议(先进行缺点分析)
 
-  [案例分析：滴滴打车]()
+  [案例分析：滴滴打车](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E5%88%86%E6%9E%90%E6%BB%B4%E6%BB%B4%E6%89%93%E8%BD%A6%E7%BC%BA%E7%82%B9%E5%92%8C%E6%94%B9%E8%BF%9B%E6%96%B9%E6%B3%95.pdf)
 
-
+&nbsp;
 
 **[数据表现]案例3：作为数据分析师如何衡量淘宝推荐系统好还是不好**
 
 > 重点：特定领域指标的选取
 
-分析思路：[案例分析：作为数据分析师如何衡量淘宝推荐系统好还是不好]()
+分析思路：[案例分析：作为数据分析师如何衡量淘宝推荐系统好还是不好](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E4%BD%9C%E4%B8%BA%E6%95%B0%E6%8D%AE%E5%88%86%E6%9E%90%E5%B8%88%E5%A6%82%E4%BD%95%E8%A1%A1%E9%87%8F%E6%B7%98%E5%AE%9D%E6%8E%A8%E8%8D%90%E7%B3%BB%E7%BB%9F%E5%A5%BD%E8%BF%98%E6%98%AF%E4%B8%8D%E5%A5%BD.pdf)
 
-
+&nbsp;
 
 ### 3.2 竞品分析
 
 > 方法论参考上图思维导图
 
-
+&nbsp;
 
 **案例1：产品对比分析**
 
 怎么看微信的公众号和百度的直达号，哪个更有优势？
 
-[案例：竞品分析腾讯公众号vs百度直达号]()
+[案例：竞品分析腾讯公众号vs百度直达号](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%E8%85%BE%E8%AE%AF%E5%85%AC%E4%BC%97%E5%8F%B7vs%E7%99%BE%E5%BA%A6%E7%9B%B4%E8%BE%BE%E5%8F%B7.pdf)
 
-
+&nbsp;
 
 百度知道和知乎的区别在哪里？
 
-[案例：竞品分析百度vs知乎]()
+[案例：竞品分析百度vs知乎](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E7%AB%9E%E5%93%81%E5%88%86%E6%9E%90%E7%99%BE%E5%BA%A6vs%E7%9F%A5%E4%B9%8E.pdf)
 
-
+&nbsp;
 
 ### 3.3 产品需求迭代&产品改版
 
 方法论参考上图思维导图
 
-> 具体方法论：[方法论：产品改版]()
+> 具体方法论：[方法论：产品改版](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%9A%E4%BA%A7%E5%93%81%E6%94%B9%E7%89%88.pdf)
 
-
+&nbsp;
 
 ### 3.4 产品需求分析/产品设计
 
@@ -372,25 +375,25 @@
 > 2. 分析满足需求的路径
 > 3. 给出效果图。
 
-[方法论：需求分析和结果设计]()
+[方法论：需求分析和结果设计](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%9A%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E5%92%8C%E7%BB%93%E6%9E%9C%E8%AE%BE%E8%AE%A1.pdf)
 
-[方法论：需求分析详解（用户痛点分析）]()
+[方法论：需求分析详解（用户痛点分析）](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%9A%E7%94%A8%E6%88%B7%E7%97%9B%E7%82%B9%E5%88%86%E6%9E%90.pdf)
 
-
+&nbsp;
 
 PS：在进行分析的时候，适当参考互联网层面的产品模式以及不同载体(移动端/PC端)的特点
 
 > 互联网层面产品模式及不同载体特点：
 >
-> [参考：互联网产品模式及各载体特点]()
+> [参考：互联网产品模式及各载体特点](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E5%8F%82%E8%80%83%EF%BC%9A%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%A7%E5%93%81%E6%A8%A1%E5%BC%8F.pdf)
 
-
+&nbsp;
 
 **案例1：分析‘‘小蛮腰’’被搜索的时候的需求，满足需求的路径是什么，并给出搜索结果效果图**
 
-> 思路：[方法论：产品需求分析-小蛮腰]()
+> 思路：[案例：产品需求分析-小蛮腰](https://github.com/SIHENG98/DA-NOTE/blob/17ca8f74a98ca8b81c8dec380a1e1a55cbe7d30e/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%9A%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90-%E5%B0%8F%E8%9B%AE%E8%85%B0.pdf)
 
-
+&nbsp;
 
 **案例2：满足用户痛点**
 
@@ -400,25 +403,25 @@ PS：在进行分析的时候，适当参考互联网层面的产品模式以及
 >
 > 3. 产品设计
 
-
+&nbsp;
 
 - **为失明的人设计一款钟表** 
 
-  分析思路：[案例：为失明的人设计一款钟表]()
+  分析思路：[案例：为失明的人设计一款钟表](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E4%B8%BA%E5%A4%B1%E6%98%8E%E7%9A%84%E4%BA%BA%E8%AE%BE%E8%AE%A1%E4%B8%80%E6%AC%BE%E9%92%9F%E8%A1%A8.pdf)
 
 
 
 - **如果男生有可能怀孕，会产生什么新的诉求，新的产品出现？**
 
-  分析思路：[案例：用户需求脑洞拓展]()
+  分析思路：[案例：用户需求脑洞拓展](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E7%94%A8%E6%88%B7%E9%9C%80%E6%B1%82%E8%84%91%E6%B4%9E%E6%8B%93%E5%B1%95.pdf)
 
-
+&nbsp;
 
 ### 其他案例
 
  **分析：如何证明一部分用户的增长是由某一个功能带来的**
 
-分析思路：[分析：如何证明一部分用户的增长是由某一个功能带来的]()
+分析思路：[分析：如何证明一部分用户的增长是由某一个功能带来的](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E5%88%86%E6%9E%90%EF%BC%9A%E5%A6%82%E4%BD%95%E8%AF%81%E6%98%8E%E4%B8%80%E9%83%A8%E5%88%86%E7%94%A8%E6%88%B7%E7%9A%84%E5%A2%9E%E9%95%BF%E6%98%AF%E7%94%B1%E6%9F%90%E4%B8%80%E4%B8%AA%E5%8A%9F%E8%83%BD%E5%B8%A6%E6%9D%A5%E7%9A%84.pdf)
 
 
 
