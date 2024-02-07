@@ -191,6 +191,7 @@
 &nbsp;
 
 **案例：如何判断某行业的发展状况**
+
 分析思路：[如何判断某行业的发展状况](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/%E8%A1%8C%E4%B8%9A%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B-%E5%A6%82%E4%BD%95%E5%88%A4%E6%96%AD%E6%9F%90%E8%A1%8C%E4%B8%9A%E5%8F%91%E5%B1%95%E6%83%85%E5%86%B5.md)
 
 &nbsp;
