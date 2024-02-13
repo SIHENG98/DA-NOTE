@@ -413,7 +413,7 @@ PS：在进行分析的时候，适当参考互联网层面的产品模式以及
 
 **案例1：分析‘‘小蛮腰’’被搜索的时候的需求，满足需求的路径是什么，并给出搜索结果效果图**
 
-> 思路：[案例：产品需求分析-小蛮腰](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/3-%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%96%B9%E6%B3%95%E8%AE%BA%EF%BC%9A%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90-%E5%B0%8F%E8%9B%AE%E8%85%B0.pdf)
+> 思路：[案例：产品需求分析-小蛮腰](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/3-%E4%BA%A7%E5%93%81%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B%EF%BC%9A%E4%BA%A7%E5%93%81%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90-%E5%B0%8F%E8%9B%AE%E8%85%B0.pdf)
 
 &nbsp;
 
