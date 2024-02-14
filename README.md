@@ -204,7 +204,7 @@
 **通常用来分析外部环境对某一业务指标的影响，以及是否开拓新市场等问题**
 
 <details>
-  <summary>**方法1: 宏观环境：PEST方法**</summary>
+  <summary>方法1: 宏观环境：PEST方法</summary>
   
 - Politics: 政策变化
 - Economy：短期内竞争环境，以及市场整体经济情况
@@ -216,7 +216,7 @@
 &nbsp;
 
 <details>
-  <summary>**方法2: 行业发展分析**</summary>
+  <summary>方法2: 行业发展分析</summary>
   
 - 行业发展周期
 - 用户需求：能满足什么样的用户需求，痛点是什么
@@ -237,7 +237,7 @@
 ### 2.2 公司层面分析
 
 <details>
-  <summary>**公司评估方法**</summary>
+  <summary>公司评估方法</summary>
 1. **公司层面**
 
    - 公司产品线、各产品定位
@@ -260,7 +260,7 @@
 &nbsp;
 
 <details>
-  <summary>**公司对比**</summary>
+  <summary>公司对比</summary>
 
 1. 两个公司所在**行业分析**
 2. 公司评估(参考上述方法)
