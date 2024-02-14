@@ -731,7 +731,7 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 ## 1.预备知识_统计学基础
 其中包括概率统计和数理统计
 
-### 思维导图
+### 1.1 思维导图
 
 <details>
   <summary> 概率统计 </summary>
@@ -750,12 +750,12 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 
 &nbsp;
 
-### 笔记汇总
+### 1.2 笔记汇总
 [笔记分享：统计学基础](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%B1%87%E6%80%BB%EF%BC%9A%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)
 
 &nbsp;
 
-### 参考书籍推荐
+### 1.3 参考书籍推荐
 **概率统计：**
 [《概率论》 茆诗松](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%A6%82%E7%8E%87%E8%AE%BA%20%E8%8C%86%E8%AF%97%E6%9D%BE.pdf)
 
@@ -792,12 +792,12 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 
 &nbsp;
 
-### 1-先验知识：假设检验
+### 2.1 先验知识：假设检验
 [先验知识：假设检验](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/2-AB%E5%AE%9E%E9%AA%8C/0-%E5%85%88%E9%AA%8C%E7%9F%A5%E8%AF%86-%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C.pdf)
 
 &nbsp;
 
-### 2-实验流程
+### 2.2 实验流程
 
 <details>
 <summary>思维导图</summary>
@@ -811,7 +811,7 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 
 &nbsp;
 
-### 3-特殊问题
+### 2.3 特殊问题
 <details>
 <summary>特殊问题</summary>
 
@@ -826,13 +826,68 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 
 &nbsp;
 
-### 4-面试问题
+### 2.4 面试问题
 [笔记：面试问题](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/2-AB%E5%AE%9E%E9%AA%8C/3-%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.pdf)
+
+&nbsp;
+
+### 笔记汇总
+[笔记汇总：AB实验](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/2-AB%E5%AE%9E%E9%AA%8C/AB%E5%AE%9E%E9%AA%8C%E7%AC%94%E8%AE%B0%E6%B1%87%E6%80%BB.pdf)
 
 &nbsp;
 
 ## 3.因果推断方法
 
+<details>
+<summary>为什么需要因果推断</summary>
+
+统计学只告诉我们相关性，而现实场景中，更注重在因果性上。
+
+> **统计学更关注在相关性上：** 
+>
+> 一个国家的人均巧克力消费量越高，出现诺贝尔奖获得者的比例越大
+>
+> **现实业务场景：** 
+>
+> 我们观察到了巧克力消费和诺奖数量，星座和违章人数的线性关系，但它没有告诉我们的是，巧克力消费和诺奖数量背后的共同原因可能是经济发达程度；而违章率高的星座在当地人口占比最高。
+
+从对社会和业务更有意义的角度来说，我们想知道的是 ‘怎么做才能提升诺奖的数量’ 或者‘用户点击某功能能否带来加购/留存的提升’，而这样的问题就需要我们探究现象背后的原因，以及量化原因对于结果造成的影响，因果推断应运而生。基于反事实的思想和拟合随机实验的一系列方法，我们能够控制混杂变量，从观察性的数据中得出因果性结论，从而论证业务价值，给出落地建议。
+
+&nbsp;
+
+同时，仅仅依靠AB实验是无法完全进行策略的验证的，集中在以下场景：
+<img src="https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/3-%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD/%E4%B8%BA%E4%BB%80%E4%B9%88%E9%9C%80%E8%A6%81%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD.png" style="zoom:40%;" />
+
+</details>
+
+
+### 3.1 参考书推荐
+[《因果推断实用计量方法》邱嘉平](https://yinguotuiduan.org/%E9%A6%96%E9%A1%B5) (包含课件下载)
+
+&nbsp;
+
+### 3.2 笔记梳理
+<details>
+  <summary>仅包括常用的方法：</summary>
+
+- 介绍因果推断基本框架(处置效应)
+- 匹配方法
+- 差分方法
+- 匹配方法与差分方法的结合，并给出案例
+  
+</details>
+
+其他方法参考[《因果推断实用计量方法》邱嘉平](https://yinguotuiduan.org/%E9%A6%96%E9%A1%B5)
+
+&nbsp;
+
+- [参考：工具变量](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/3-%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD/%E5%8F%82%E8%80%83%EF%BC%9A%E5%B7%A5%E5%85%B7%E5%8F%98%E9%87%8F.pdf)
+
+- [参考：断点回归](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/3-%E5%9B%A0%E6%9E%9C%E6%8E%A8%E6%96%AD/%E5%8F%82%E8%80%83%EF%BC%9A%E6%96%AD%E7%82%B9%E5%9B%9E%E5%BD%92.pdf)
+
+---
+
+# IV.个人分享
 
 
 
