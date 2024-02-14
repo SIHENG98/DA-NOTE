@@ -4,7 +4,7 @@
 
 <summary>目录</summary>
 
-- [I、SQL](#I、sql)
+- [I.SQL](#isql)
   - [SQL书籍](#sql书籍)
   - [常用语法思维导图](#常用语法思维导图)
   - [LeetCode刷题](#leetcode刷题)
@@ -50,7 +50,7 @@
 
 ---
 
-# I、SQL
+# I.SQL
 ## SQL书籍
 
 - 必读：[《SQL必知必会》](https://github.com/SIHENG98/DA-NOTE/blob/main/part%20I%20SQL%E7%AC%94%E8%AE%B0/SQL%E5%BF%85%E7%9F%A5%E5%BF%85%E4%BC%9A-%E4%B8%AD%E6%96%87-%E7%AC%AC4%E7%89%88.pdf)
