@@ -14,9 +14,9 @@
   - [6、活动评价](#6活动评价)
   - [7、其他内容](#7其他内容)
 - [III.实验方法](#iii实验方法)
-  - [1.预备知识：数理统计](#1预备知识：数理统计)
-  - [2.AB实验](#2ab实验)
-  - [3.因果推断方法](#3因果推断方法)
+  - [1、预备知识：统计学基础](#1预备知识_统计学基础)
+  - [2、AB实验](#2ab实验)
+  - [3、因果推断方法](#3因果推断方法)
   
 </details>
 
@@ -52,15 +52,16 @@
 
 <img src="https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/0-%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91-%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/1-%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90.png" style="zoom:40%;" />
 
-> 如何理解？
->
-> - 在对齐业务目标后，会通过梳理业务流程来进行内容的梳理；
->
-> - 在这个过程中，通过对各个环节进行**指标体系的搭建**，以高效地监测/衡量各个环节的状况 
->
->   要达到上述的目标，首先明确核心指标是什么：比如在电商的用户增长期时(主要工作在拉新上)，首先重点关注用户增长指标，比如DAU、MAU等等
->
-> - 在搭建完指标之后，需要定期监测各指标的变化；当某个指标发生高于阈值的变化时，需要对这个指标的异动进行解释(一般做拆解分析)，类似于统计学中的费米估计
+<details>
+  <summary> 如何理解？</summary>
+
+- 在对齐业务目标后，会通过梳理业务流程来进行内容的梳理；
+
+- 在这个过程中，通过对各个环节进行**指标体系的搭建**，以高效地监测/衡量各个环节的状况
+  要达到上述的目标，首先明确核心指标是什么：比如在电商的用户增长期时(主要工作在拉新上)，首先重点关注用户增长指标，比如DAU、MAU等等
+
+- 在搭建完指标之后，需要定期监测各指标的变化；当某个指标发生高于阈值的变化时，需要对这个指标的异动进行解释(一般做拆解分析)，类似于统计学中的费米估计
+</details>
 
 &nbsp;
 
@@ -86,7 +87,12 @@
 
 **案例2: 假设某视频app从某日起日活DAU指标大幅下降。你会如何找出原因？**
 
-<img src="https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/1-%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90/DAU%E6%8B%86%E5%88%86%E5%85%AC%E5%BC%8F.png" style="zoom:5%;" />
+<details>
+  <summary> DAU拆分思路</summary>
+  
+  <img src="https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/1-%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90/DAU%E6%8B%86%E5%88%86%E5%85%AC%E5%BC%8F.png" style="zoom:5%;" />
+
+</details>
 
 [分析详情：DAU下降分析案例](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20II%20%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91/1-%E6%8C%87%E6%A0%87%E5%88%86%E6%9E%90/%E6%A1%88%E4%BE%8B-%E5%BC%82%E5%8A%A8%E5%88%86%E6%9E%90-DAU%E4%B8%8B%E9%99%8D.pdf)
 
@@ -196,22 +202,28 @@
 
 **通常用来分析外部环境对某一业务指标的影响，以及是否开拓新市场等问题**
 
-**方法1: 宏观环境：PEST方法**
-
+<details>
+  <summary>**方法1: 宏观环境：PEST方法**</summary>
+  
 - Politics: 政策变化
 - Economy：短期内竞争环境，以及市场整体经济情况
 - Society：行业舆论、用户生活方式变化、消费心理、价值观
 - Technology：创新方案的出现，分销方式的变化
+  
+</details>
 
 &nbsp;
 
-**方法2: 行业发展分析**
-
+<details>
+  <summary>**方法2: 行业发展分析**</summary>
+  
 - 行业发展周期
 - 用户需求：能满足什么样的用户需求，痛点是什么
 - 利润水平
 - 行业壁垒、行业风险
-- 国际化战略（未来
+- 国际化战略（未来）
+  
+</details>
 
 &nbsp;
 
@@ -223,8 +235,8 @@
 
 ### 2.2 公司层面分析
 
-**公司评估**
-
+<details>
+  <summary>**公司评估方法**</summary>
 1. **公司层面**
 
    - 公司产品线、各产品定位
@@ -241,15 +253,20 @@
    - 创新潜力
    - 国际化战略
    - 当前/未来资金情况
+    
+</details>
 
 &nbsp;
 
-**公司对比**
+<details>
+  <summary>**公司对比**</summary>
 
 1. 两个公司所在**行业分析**
 2. 公司评估(参考上述方法)
 3. 产品层面分析
 4. 收入来源、产品/战略布局、长期适应性
+
+</details>
 
 &nbsp;
 
@@ -541,7 +558,7 @@ PS：在进行分析的时候，适当参考互联网层面的产品模式以及
 
 <details>
 
-<summary>总结来说，就是在建立用户同理心的基础上，分析产品/功能的体验问题，具体为 </summary>
+<summary>总结来说，就是在建立用户同理心的基础上，分析产品/功能的体验问题，具体为:（展开） </summary>
 
 
 - 明确分析目的
@@ -711,14 +728,106 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 
 # III.实验方法
 
-## 1.预备知识：统计学基础
+## 1.预备知识_统计学基础
 其中包括概率统计和数理统计
 
+### 思维导图
+
+<details>
+  <summary> 概率统计 </summary>
+
+<img src="https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%EF%BC%9A%E6%A6%82%E7%8E%87%E7%BB%9F%E8%AE%A1.png" style="zoom:40%;" />
+
+</details>
+
+&nbsp;
+<details>
+  <summary> 数理统计 </summary>
+
+  <img src="https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%EF%BC%9A%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1.png" style="zoom:40%;" />
+
+</details>
+
+&nbsp;
+
+### 笔记汇总
+[笔记分享：统计学基础](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%B1%87%E6%80%BB%EF%BC%9A%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80.pdf)
+
+&nbsp;
+
+### 参考书籍推荐
+**概率统计：**
+[《概率论》 茆诗松](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%A6%82%E7%8E%87%E8%AE%BA%20%E8%8C%86%E8%AF%97%E6%9D%BE.pdf)
+
+&nbsp;
+[《概率论与数理统计》 陈希儒](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%A6%82%E7%8E%87%E8%AE%BA%E4%B8%8E%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%EF%BC%88%E9%99%88%E5%B8%8C%E5%AD%BA%EF%BC%89.pdf)
+
+&nbsp;
+**数理统计：**
+[《数理统计》 茆诗松](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/1-%E7%BB%9F%E8%AE%A1%E5%AD%A6%E5%9F%BA%E7%A1%80/%E6%95%B0%E7%90%86%E7%BB%9F%E8%AE%A1%E5%AD%A6%20%20%E8%8C%86%E8%AF%97%E6%9D%BE.pdf)
 
 &nbsp;
 
 ## 2.AB实验
+<details>
+<summary>为什么需要AB实验？</summary>
 
+以下是一些使用AB实验的常见原因：
+
+1. **效果评估：** AB实验可以用于评估某种变化（例如网站设计、产品功能或营销策略）对特定指标的影响，如转化率、用户参与度等。
+
+2. **决策支持：** 在做出业务决策之前，进行AB测试可以提供数据支持，帮助确定哪个选择最有可能取得成功。
+
+3. **优化用户体验：** AB测试允许对用户体验进行微调，以确保产品或服务的最佳表现，提高用户满意度。
+
+4. **风险管理：** 通过小规模的实验，您可以在全面推出之前发现和解决潜在问题，减少风险和资源浪费。
+
+5. **数据驱动决策：** AB实验提供了基于数据的方法，使决策更加客观和可靠，而不是仅仅依赖于直觉或猜测。
+
+&nbsp;
+
+> 比如，在春节期间某电商平台想要推出某个活动以提高春节期间的GMV；最为常见的方法就是通过对部分用户做实验，来评估该活动能带来的GMV增量有多少。此时，如果想要严谨统计，那么需要通过AB实验来对比做活动和不做活动所带来的效果，严谨统计出活动的收益。因此开展AB实验，在一些数据驱动型的公司是必不可少的。
+
+</details>
+
+&nbsp;
+
+### 1-先验知识：假设检验
+[先验知识：假设检验](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/2-AB%E5%AE%9E%E9%AA%8C/0-%E5%85%88%E9%AA%8C%E7%9F%A5%E8%AF%86-%E5%81%87%E8%AE%BE%E6%A3%80%E9%AA%8C.pdf)
+
+&nbsp;
+
+### 2-实验流程
+
+<details>
+<summary>思维导图</summary>
+
+  <img src="https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/2-AB%E5%AE%9E%E9%AA%8C/%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE%EF%BC%9A%E5%AE%9E%E9%AA%8C%E6%B5%81%E7%A8%8B.png" style="zoom:40%;" />
+  
+</details>
+
+
+[笔记：实验流程](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/2-AB%E5%AE%9E%E9%AA%8C/1-AB%E5%AE%9E%E9%AA%8C%E5%9F%BA%E6%9C%AC%E6%AD%A5%E9%AA%A4.pdf)
+
+&nbsp;
+
+### 3-特殊问题
+<details>
+<summary>特殊问题</summary>
+
+  - 辛普森悖论
+  - 多重假设检验问题
+  - 学习效应
+    
+</details>
+
+
+[笔记：特殊问题](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/2-AB%E5%AE%9E%E9%AA%8C/2-%E7%89%B9%E6%AE%8A%E9%97%AE%E9%A2%98.pdf)
+
+&nbsp;
+
+### 4-面试问题
+[笔记：面试问题](https://github.com/SIHENG98/DA-NOTE/blob/main/Part%20III%20%E5%AE%9E%E9%AA%8C%E6%96%B9%E6%B3%95/2-AB%E5%AE%9E%E9%AA%8C/3-%E9%9D%A2%E8%AF%95%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.pdf)
 
 &nbsp;
 
