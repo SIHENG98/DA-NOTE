@@ -4,7 +4,7 @@
 
 <summary>目录</summary>
 
-- [I、SQL](#i、sql)
+- [I、SQL](#I、sql)
   - [SQL书籍](#sql书籍)
   - [常用语法思维导图](#常用语法思维导图)
   - [LeetCode刷题](#leetcode刷题)
