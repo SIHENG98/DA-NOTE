@@ -897,8 +897,8 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 # IV.个人分享
 
 ## 1. 个人理解：数据分析师的核心目标及工作职责
+<img width="707" alt="image" src="https://github.com/SIHENG98/DA-NOTE/assets/141550400/2de4b947-cf50-412f-96f0-bef5098357a3">
 
-<img src="/Users/siheng_huang/Desktop/markdown/image/image-20240215211106208.png" alt="image-20240215211106208" style="zoom:50%;" />
 
 ### 1.1 核心目标及能力
 
@@ -940,7 +940,9 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 
 专题分析的一般流程如下：
 
-<img src="/Users/siheng_huang/Desktop/markdown/image/image-20240217205542622.png" alt="image-20240217205542622" style="zoom:50%;" />
+
+<img width="456" alt="image" src="https://github.com/SIHENG98/DA-NOTE/assets/141550400/808129c5-bd3a-439d-90e4-555865594ef9">
+
 
 我个人认为，进行专题分析本质上就是在作为一个storyteller，进行故事的还原；其中分为故事线的理清以及如何把故事生动地讲述给别人。
 
@@ -1013,7 +1015,7 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 
 通过上述对于岗位的核心目标及基本能力，其实归纳出更为深层的能力 — 从行业到个人方面：
 
-![image-20240217215816392](/Users/siheng_huang/Desktop/markdown/image/image-20240217215816392.png)
+<img width="1205" alt="image-20240217215816392" src="https://github.com/SIHENG98/DA-NOTE/assets/141550400/40306285-5980-4afd-bd25-f5ce6df30681">
 
 
 
@@ -1027,7 +1029,9 @@ RFM模型：用以对用户分类，识别出有价值的用户 [参考：RFM模
 
 
 
-<img src="/Users/siheng_huang/Desktop/markdown/image/image-20240217222738762.png" alt="image-20240217222738762" style="zoom:50%;" />
+<img width="760" alt="image-20240217222738762" src="https://github.com/SIHENG98/DA-NOTE/assets/141550400/b0989c22-bb2a-4f62-8087-c23782b86fd6">
+
+
 
 
 
